@@ -51,7 +51,7 @@ Este proyecto web fue desarrollado como ejercicio práctico para aplicar conocim
 
 Este proyecto puede visualizarse en línea a través de GitHub Pages:
 
-[🔗 Ver Sitio Web]([https://usuario.github.io/nombre-del-repo](https://zenzuarg.github.io/Trabajos-practicos/)
+[🔗 Ver Sitio Web](https://zenzuarg.github.io/Trabajos-practicos/)
 
 ## 📌 Autor
 
